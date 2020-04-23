@@ -1,0 +1,11 @@
+.vs
+Common/bin
+Common/obj
+DataLayer/bin
+DataLayer/obj
+Presentation/bin
+Presentation/obj
+Repo/bin
+Repo/obj
+Services/bin
+Services/obj
